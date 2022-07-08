@@ -54,6 +54,11 @@
   - OpenTitan
 
 
+- Hardware virtualization
+
+  - Overview
+  
+  - Intel VTx
 
 ## Contact
 

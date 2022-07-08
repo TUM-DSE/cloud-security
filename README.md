@@ -37,9 +37,11 @@
   
   - Confused deputy
   
-  - Priviledge escalation
+  - Privilege escalation
   
-     - 
+     - Control flow hijack
+     - Code injection   
+     - Code reuse
      
 
 - Attestation

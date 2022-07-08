@@ -46,7 +46,7 @@
 
 - Attestation
 
-  - Overview
+  - Overview and basic principles
   
   - TPM-based attestation
   

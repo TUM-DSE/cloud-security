@@ -1,4 +1,4 @@
-# Hardware Security // Cloud Security
+# Hardware Security
 
 --- WiP --- 
 
@@ -8,6 +8,14 @@
 - The lecture is organized by the [Chair of Decentralized Systems Engineering](https://dse.in.tum.de/) at TU Munich.
 
 ## Course content
+
+
+- Harware Security
+
+  - Overview
+  
+  - Challenges for cloud security
+
 
 - System security principles
 
@@ -19,18 +27,9 @@
   
   - Compartmentalization
   
-  - Threat model
+  - Threat model  
 
-
-- Harware Security in the cloud
-
-  - Overview
-  
-  - Challenges for cloud security
-  
-  
-
-- Confidential computing in the cloud
+- Confidential computing
 
   - Overview
 

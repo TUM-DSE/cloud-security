@@ -1,6 +1,7 @@
 # Hardware Security
 
---- WiP --- 
+--- [Slides WiP](https://docs.google.com/presentation/d/1xXnts3ZJWD4sjbQlYdlxNdO6vEaTsHrK5BDjQ0XThrY/edit?usp=sharing) --- 
+
 
 
 ## Chair website

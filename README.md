@@ -14,8 +14,7 @@
 
   - Overview
   
-  - Challenges for cloud security
-
+  - Hardware as the root of trust
 
 - System security principles
 

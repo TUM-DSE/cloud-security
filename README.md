@@ -54,18 +54,18 @@
 
   - Overview
 
-  - Intel SGX
+  - Intel SGX: Software Guard Extensions
   
   - ARM Trustzone / ARM Realms
   
-  - AMD SEV
+  - AMD SEV: Secure Encrypted Virtualization
   
   
 - Memory safety
 
   - Overview
   
-  - Intel MPX
+  - Intel MPX: Memory Protection Extension
   
   - CHERI
   
@@ -75,17 +75,17 @@
   
   - MMU/IOMMU
   
-  - Intel MPK
+  - Intel MPK: Memory Protection Keys
   
-  - ARM MTE
+  - ARM MTE: Memory Tagging Extensions
   
 - Control flow integrity
 
   - Overview
   
-  - Intel CET
+  - Intel CET: Control-Flow Enforcement Technology
   
-  - ARM PA
+  - ARM PA: Pointer Authentication
   
 - Open hardware for security research 
   
@@ -99,7 +99,7 @@
 
   - Overview
   
-  - Intel VTx
+  - Intel VTx: Virtualization Technology
 
   - KVM
   

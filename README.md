@@ -12,7 +12,7 @@
   
   - Security properties
   
-  - Challenges
+  - Challenges for cloud security
 
 - Confidential computing in the cloud
 

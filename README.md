@@ -6,6 +6,14 @@
 
 ## Course content
 
+- Harware Security
+
+  - Overview
+  
+  - Security properties
+  
+  - Challenges
+
 - Confidential computing in the cloud
 
   - Overview

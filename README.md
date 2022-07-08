@@ -9,13 +9,26 @@
 
 ## Course content
 
-- Harware Security
+- System security principles
+
+  - Confidentiality, integrity, and freshness
+  
+  - Isolation
+  
+  - Least priviledge
+  
+  - Compartmentalization
+  
+  - Threat model
+
+
+- Harware Security in the cloud
 
   - Overview
   
-  - Security properties
-  
   - Challenges for cloud security
+  
+  
 
 - Confidential computing in the cloud
 

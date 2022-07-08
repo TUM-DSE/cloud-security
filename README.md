@@ -41,11 +41,9 @@
 
   - Intel SGX
   
-  - ARM Trustzone
+  - ARM Trustzone / ARM Realms
   
   - AMD SEV
-  
-  - RISC-V Keystone
   
   
 - Memory safety

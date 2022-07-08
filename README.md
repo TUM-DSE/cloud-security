@@ -29,6 +29,12 @@
   
   - Threat model  
 
+- Attestation
+
+  - Overview
+  
+  - TPM
+  
 - Confidential computing
 
   - Overview
@@ -68,14 +74,13 @@
   
   - ARM PA
   
-- Attestation
-
-  - Overview
+- Open hardware for security research 
   
-  - TPM
+  - RISC-V Basics
+  
+  - Keystone
   
   - OpenTitan
-
 
 - Hardware virtualization
 

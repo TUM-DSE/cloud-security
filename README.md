@@ -28,6 +28,19 @@
   - Compartmentalization
   
   - Threat model  
+  
+- Attack vectors
+
+  - Denial of service
+  
+  - Information leakage
+  
+  - Confused deputy
+  
+  - Priviledge escalation
+  
+     - 
+     
 
 - Attestation
 

@@ -10,7 +10,7 @@
 ## Course content
 
 
-- Harware Security
+- Harware security
 
   - Overview
   
@@ -22,7 +22,7 @@
   
   - Isolation
   
-  - Least priviledge
+  - Least privilege
   
   - Compartmentalization
   

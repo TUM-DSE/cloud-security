@@ -1,5 +1,8 @@
 # Hardware Security // Cloud Security
 
+--- WiP --- 
+
+
 ## Chair website
 
 - The lecture is organized by the [Chair of Decentralized Systems Engineering](https://dse.in.tum.de/) at TU Munich.

@@ -86,6 +86,10 @@
   
   - Intel VTx
 
+  - KVM
+  
+  - QEMU
+
 ## Contact
 
 For any further questions/comments, please contact the course organizer:

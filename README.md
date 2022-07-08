@@ -33,7 +33,7 @@
 
   - Overview
   
-  - TPM
+  - TPM-based attestation
   
 - Confidential computing
 
